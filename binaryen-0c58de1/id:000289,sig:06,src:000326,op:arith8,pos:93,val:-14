@@ -1,0 +1,8 @@
+function () {
+  "use asm";
+  function add(x, y) {
+    x = 0; y = y | 6;
+return 0 }
+   { kdd:do;
+}
+

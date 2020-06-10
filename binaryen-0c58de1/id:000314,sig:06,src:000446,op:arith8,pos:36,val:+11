@@ -1,0 +1,3 @@
+function () {
+  "use asm";
+  funct?do: add };
